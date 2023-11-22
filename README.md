@@ -1,3 +1,5 @@
-Try this
+## BGGN 213: Bioinformatics
 
-this line is from the online github
+UC San Diego, Fall 2023
+
+- Class 05: [Data vis with GGPLOT][]
